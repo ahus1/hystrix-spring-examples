@@ -1,0 +1,4 @@
+= Spring Hystrix Examples
+
+This example project tests some edge cases of Hystrix.
+See the test JUnit test cases for details.
